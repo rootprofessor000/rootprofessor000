@@ -1,6 +1,6 @@
 <!-- ====================== HEADER ====================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Aaditya%20Kumar%20Sah&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Security%20Engineer%20%C2%B7%20Penetration%20Testing%20%C2%B7%20Bug%20Bounty&descSize=18&descAlignY=58" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Aaditya%20Sah&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Security%20Engineer%20%C2%B7%20Penetration%20Testing%20%C2%B7%20Bug%20Bounty&descSize=18&descAlignY=58" alt="header"/>
 </p>
 
 <p align="center">
