@@ -27,7 +27,7 @@
 - 📚 Continuously sharpening skills in penetration testing, red-team tradecraft, and secure development
 - ⚖️ Strong believer in **ethical, authorized-only** security testing
 - 💬 Ask me about **Python security tooling, recon automation, and web-app pentesting**
-- 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/aadityasah/)** or **[email](mailto:aman9506852825@gmail.com)**
+- 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/aadityasah/)** 
 
 ---
 
