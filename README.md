@@ -12,7 +12,6 @@
 <!-- ====================== SOCIALS ====================== -->
 <p align="center">
   <a href="https://www.linkedin.com/in/aadityasah/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:aman9506852825@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/rootprofessor000"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <img src="https://komarev.com/ghpvc/?username=rootprofessor000&style=for-the-badge&color=blueviolet&label=Profile+Views" alt="Profile views"/>
 </p>
@@ -88,7 +87,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aadityasah/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:aman9506852825@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 <p align="center"><i>⚖️ All security work is performed strictly under authorization. Built with a focus on ethical, responsible disclosure.</i></p>
